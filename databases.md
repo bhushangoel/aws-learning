@@ -4,7 +4,8 @@ They are an organized collection of data, which is stored electronically and acc
 
 AWS has different types of database systems
 
-* Relational :&#x20;
+* Relational : \
+  Relational databases are those where the data stored is related to each other.
   * Amazon Aurora - mySQL and PosrgreSQL compatible database built for the cloud
   * Amazon RDS (Relational Database Service)
   * Amazon Redshift
