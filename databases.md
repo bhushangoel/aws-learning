@@ -19,3 +19,13 @@ AWS has different types of database systems
 * Time Series
 * Wide column
 * Ledger
+
+### Amazon Elasticache
+
+* It is a fully managed in-memory data store. In-memory data store refers to storing things that you have previously requested from your database.
+* While accessing, you access elasticache first intead of the database.
+* Elasticache has two engines that you can use, which are twi different in-memory data stores.
+  * Redis
+  * Memcached
+* It is fully scalable&#x20;
+
